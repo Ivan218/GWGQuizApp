@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Health Quiz</string>
+    <string name="quiz_name">How Much Do You Know About General Health?</string>
+    <string name="q1_text">When you are abstaining from exercise, what does your body use as the main backup for energy?</string>
+    <string name="q1a">Fat</string>
+    <string name="q1b">Carbs</string>
+    <string name="q1c">Muscle</string>
+    <string name="q1d">Caffeine</string>
+    <string name="q2_text">Which would you die first from a lack of?</string>
+    <string name="q2a">Sleep</string>
+    <string name="q2b">Food</string>
+    <string name="q2c">Money</string>
+    <string name="q2d">Exercise</string>
+    <string name="q3_text">Which part of your body only gets cleaned during sleep?</string>
+    <string name="q3a">Blood</string>
+    <string name="q3b">Spline</string>
+    <string name="q3c">Brain</string>
+    <string name="q3d">Kidneys</string>
+    <string name="q4_text">Which of the following does not inherently weaken your immune system?</string>
+    <string name="q4a">Inactivity</string>
+    <string name="q4b">Lack of sleep</string>
+    <string name="q4c">Sugar</string>
+    <string name="q4d">Cold weather</string>
+    <string name="q5_text">Which mental disorder is the most common in the world?</string>
+    <string name="q5a">Anxiety</string>
+    <string name="q5b">Depression</string>
+    <string name="q5c">Agoraphobia</string>
+    <string name="q5d">Eating Disorders</string>
+    <string name="q6_text">What is the best way to expedite the healing of a sprained ankle?</string>
+    <string name="q6a">Ice</string>
+    <string name="q6b">Heat</string>
+    <string name="q6c">Compression</string>
+    <string name="q6d">Time</string>
+    <string name="results">Score My Quiz!</string>
+    <string name="report">You got %d out of %d correct!</string>
+    <string name="incorrect">Question %d is incorrect</string>
+</resources>
